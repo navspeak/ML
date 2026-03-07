@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "UI_bupt4mZ86d8T2cn_JC",
+      "type": "text",
+      "x": 280.800048828125,
+      "y": 142.40000915527344,
+      "width": 614.0999908447266,
+      "height": 297.1304797823727,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 2092669116,
+      "version": 573,
+      "versionNonce": 983901756,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1772884735672,
+      "link": null,
+      "locked": false,
+      "text": "1. Multicollinearity - detect using VIF or correlation matrix\n2. scaling Issues - large scale methods may dominate. Min-Max\nscaling\n3. heteroscedascity - variance of error is not constant (Linear\nregression assumes constant variance of resuduals)\n4. Overfitting - fits the training data too well but performs poorly\non new data. R^2 on Train 0.95 but on test 0.45 (large gap).\nRidge/Lasso regularization \n--\n5.Autocorrelation\n6. Non-linearity\n7. Outliers\n",
+      "fontSize": 18.284952601992167,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "1. Multicollinearity - detect using VIF or correlation matrix\n2. scaling Issues - large scale methods may dominate. Min-Max scaling\n3. heteroscedascity - variance of error is not constant (Linear regression assumes constant variance of resuduals)\n4. Overfitting - fits the training data too well but performs poorly on new data. R^2 on Train 0.95 but on test 0.45 (large gap). Ridge/Lasso regularization \n--\n5.Autocorrelation\n6. Non-linearity\n7. Outliers\n",
+      "autoResize": false,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
